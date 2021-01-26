@@ -15,7 +15,7 @@ class Link {
         if (head == null) {
             head = new_node;
             return;
-        }
+        }//hellow world
         Node temp = head;
         while (temp.next != null) {
             temp = temp.next;
